@@ -10,9 +10,9 @@ from telegram.ext import (
     ConversationHandler, CallbackQueryHandler
 )
 
-TOKEN = '7008848539:AAGUrtKbnIe50r45YRxBFzG9B4kKR-csxiA'  
-PEXELS_API_KEY = 'kQdIkN07IqZI7byq9g2H4GbRbYH7m5JCdGXjaYznNbh0ekFxadxE4wcW'  
-ADMIN_ID = 6924443594
+TOKEN = '7008848539:AAGUrtKbnBFzG9B4kKR-csxiA'  
+PEXELS_API_KEY = 'kQdIkN07Iqg2H4GbRbYH7m5JCdGXjaYznNbh0ekFxadxE4wcW'  
+ADMIN_ID = 69244
 
 LOG_FILE = 'log.txt'
 USER_FILE = 'users.txt'
