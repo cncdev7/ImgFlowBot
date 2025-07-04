@@ -1,0 +1,11 @@
+TOKEN = '7008848539:AAGUrtKbnIe50r45YRxBFzG9B4kKR-csxiA'  
+PEXELS_API_KEY = 'kQdIkN07IqZI7byq9g2H4GbRbYH7m5JCdGXjaYznNbh0ekFxadxE4wcW'  
+ADMIN_ID = 6924443594
+
+qara men uni botga ulaganimda u admin bilan odi userni ajrataolishi kerak va admin uhcun funksiya comandalarini qoshihsim kerak
+Admin
+1)doimiy loglarni yozib borish
+2)Botdagi barcha foydalanuvchilarga post  korinihsidagi xabarlarni yuborish imkoniyati rasim video fayil ovozli xabar matin 
+3)botdagi logfayilini txt formatda yuklab olish imkoni bot orqali 
+4)admin foydlanuvchilar royhatini korish imkoni va bor  foydalanuvchilar  haqidagi malumotlarni yozib borishi user.txtga 
+va admin uni bot orqali olishi va korishi mumkun bolishi kerak
